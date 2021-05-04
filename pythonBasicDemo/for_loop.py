@@ -12,3 +12,7 @@ for letter in 'inty':
 
 这是一次实验
 1111111
+
+
+new
+ddddddd
